@@ -13,7 +13,7 @@ This Streamlit application simulates a technical crew for software development p
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/technical-crew-ai.git
+    git clone https://github.com/rizwaniscoder/technical-crew-ai.git
     ```
 
 2. Install the required dependencies:
